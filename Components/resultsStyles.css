@@ -1,0 +1,44 @@
+.results-container {
+  align-self: center;
+  flex-direction: row;
+  display: inline;
+  overflow: auto;
+  width: 50%;
+  margin-top: 1cm;
+  margin-left: 2mm;
+  margin-right: 2mm;
+}
+
+.result-container {
+  border: 1px solid;
+  padding: 5mm;
+  margin: auto;
+  margin-top: 5mm;
+  text-align: center;
+  width: 80%;
+  border-radius: 2mm;
+}
+.result-country {
+  font-weight: 750;
+  font-size: 1.2rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.result-confirmed {
+  font-weight: 200;
+  font-size: 1rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.result-death {
+  font-weight: 200;
+  font-size: 1rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.result-recovered {
+  font-weight: 200;
+  font-size: 1rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}

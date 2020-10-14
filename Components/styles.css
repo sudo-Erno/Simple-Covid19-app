@@ -1,0 +1,15 @@
+.general-container {
+  overflow: auto;
+}
+.display-3 {
+  text-align: center;
+}
+.table-container {
+  margin: auto;
+  width: 90%;
+  margin-top: 1cm;
+}
+
+.display-4 {
+  font-size: 0.5cm;
+}

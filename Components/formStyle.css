@@ -1,0 +1,11 @@
+.form {
+  width: 90%;
+  padding: 10px;
+  border: 1px solid;
+  margin: auto;
+  border-radius: 2mm;
+}
+
+#submitBtn {
+  margin-top: 15px;
+}
